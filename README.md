@@ -1,5 +1,7 @@
 # Sample NodeJS application for Azure Pipelines docs
 
+[![Build Status](https://dev.azure.com/mail0715/Rewards/_apis/build/status/BensonLamPro.pipeline-javascript)](https://dev.azure.com/mail0715/Rewards/_build/latest?definitionId=1)
+
 For information on how to use this repository, see [JavaScript](https://docs.microsoft.com/azure/devops/pipelines/languages/javascript).
 
 | Example | Build status |
